@@ -1,0 +1,15 @@
+---
+title: "Ice 1"
+author: "Yangzhi Xu"
+date: "3/1/2022"
+output: html_document
+---
+
+```{r}
+library(RODBC)
+'channel'
+'sqlTables(channel)'
+data(School)
+
+```
+

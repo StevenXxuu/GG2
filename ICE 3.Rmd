@@ -1,0 +1,15 @@
+---
+title: "Ice 3"
+author: "Yangzhi Xu"
+date: "3/10/2022"
+output: html_document
+---
+
+```{r}
+library(devtools)
+devtools::install_github("IEDMS/REDM/bkt")
+```
+```{r}
+library(tidyverse)
+library(ggplot2)
+```
